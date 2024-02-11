@@ -73,6 +73,13 @@ font-size: 1.2rem;
     flex-wrap: wrap;
     justify-content: center;
     align-items: space-evenly;
+    width: 100%;
+}
+
+footer{
+ 
+    margin-top: 15px;
+
 }
 
 /* Cards */
